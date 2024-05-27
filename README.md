@@ -81,8 +81,8 @@ Matching brackets will be highlighted as soon as the cursor is near one of them.
 
 Tip: You can jump to the matching bracket with `Ctrl+Shift+\`
 
-|"workbench.colorCustomizations": {
+| "workbench.colorCustomizations": {
     "editorBracketHighlight.foreground1": "#FFD700",
     "editorBracketHighlight.foreground2": "#DA70D6",
     "editorBracketHighlight.foreground3": "#179fff",
-|},
+},
